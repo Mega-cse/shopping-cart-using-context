@@ -1,0 +1,20 @@
+
+
+.card {
+  height: 100%; 
+}
+
+
+.cart-box
+{
+  padding: 10px 45px;
+  font-size: 20px;
+}
+.cart-button
+{
+ padding: 10px 20px;
+}
+body {
+  background-color: #111;
+  color: #fff; 
+}
